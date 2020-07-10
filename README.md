@@ -1,19 +1,11 @@
 # ArUco-Scanner-v1.0
 
-Detection and tracking of ArUco markers using OpenCV and the IP Webcam app.
----
-A simple ArUco marker scanner that tracks fiducial markers using the IP Webcam Android application and the ar_markers 0.5.0 Python package.
+### A simple ArUco marker detector that tracks fiducial markers using the IP Webcam Android application, OpenCV and the ar_markers 0.5.0 Python package.
 
-<center>IP Webcam app</center>
-
+IP Webcam app -
 ![ip-webcam-screen](images/ip-webcam.jpg)
 
-<center>Generated ArUco markers</center>
-
-![generated-aruco-markers](images/markers.png)
-
-<center>Detected ArUco markers</center>
-
+Detection of ArUco markers -
 ![detected-aruco-markers](images/output.png)
 
 ---
