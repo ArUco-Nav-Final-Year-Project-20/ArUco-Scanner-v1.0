@@ -10,7 +10,7 @@ Detection of ArUco markers -
 
 ---
 
-### Using ArUco-Gen
+### Using ArUco-Scanner-v1.0
 
 From the command line, execute the following:
 
